@@ -26,6 +26,7 @@
     
     //This is a test 1
     // Another commit
+    // Test 2
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
