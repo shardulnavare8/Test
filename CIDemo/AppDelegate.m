@@ -36,6 +36,7 @@
     // TEsting output folder
     // Testing output folder 2
     // Checking the Desktop folder creation
+    // checking for MAMP file creation
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
