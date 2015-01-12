@@ -40,6 +40,7 @@
     //     // checking for MAMP file creation2
     // Is it hitting HTDocs?
     // Folder Test
+    // Version update test
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
