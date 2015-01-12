@@ -38,6 +38,7 @@
     // Checking the Desktop folder creation
     // checking for MAMP file creation
     //     // checking for MAMP file creation2
+    // Is it hitting HTDocs?
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
