@@ -35,6 +35,7 @@
     // Testing auto build
     // TEsting output folder
     // Testing output folder 2
+    // Checking the Desktop folder creation
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
