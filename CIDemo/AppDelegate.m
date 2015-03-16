@@ -49,6 +49,7 @@
     // test for job completed on 0744
     // try again for notification
     // test for https
+    // test auto update
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
