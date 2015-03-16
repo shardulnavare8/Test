@@ -47,6 +47,7 @@
     // Change on 0734
     // change on 0740
     // test for job completed on 0744
+    // try again for notification
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
