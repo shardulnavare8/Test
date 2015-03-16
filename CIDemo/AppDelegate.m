@@ -52,6 +52,7 @@
     // test auto update
     // test for notification 2
     // 200 response or not
+    // check for notification with log level 10
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
