@@ -51,6 +51,7 @@
     // test for https
     // test auto update
     // test for notification 2
+    // 200 response or not
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
