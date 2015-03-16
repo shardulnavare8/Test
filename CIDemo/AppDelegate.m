@@ -50,6 +50,7 @@
     // try again for notification
     // test for https
     // test auto update
+    // test for notification 2
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
