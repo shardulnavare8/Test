@@ -26,6 +26,7 @@
     
     // Test for DNS resolution
     // is update happening now
+    // New cert test
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
