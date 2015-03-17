@@ -27,6 +27,7 @@
     // Test for DNS resolution
     // is update happening now
     // New cert test
+    // test before blake demo
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
