@@ -55,6 +55,7 @@
     // check for notification with log level 10
     // test for app update
     // check app update
+    // test for change in name
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
