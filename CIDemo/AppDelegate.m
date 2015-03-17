@@ -25,6 +25,7 @@
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
     
     // Test for DNS resolution
+    // is update happening now
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
