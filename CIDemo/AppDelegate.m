@@ -30,6 +30,7 @@
     // test before blake demo
     // try an update now
     // demo for kunal
+    // demo for blake
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
