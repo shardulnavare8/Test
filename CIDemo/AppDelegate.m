@@ -56,6 +56,7 @@
     // test for app update
     // check app update
     // test for change in name
+    // is name going to remain the same
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
