@@ -28,6 +28,7 @@
     // is update happening now
     // New cert test
     // test before blake demo
+    // try an update now
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
