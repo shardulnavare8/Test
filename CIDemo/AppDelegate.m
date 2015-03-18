@@ -36,6 +36,7 @@
     // test again
     // one more
     // 40
+    // 41 - added the sleep before downloading the app
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
