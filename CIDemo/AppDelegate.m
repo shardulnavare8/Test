@@ -24,30 +24,8 @@
     // Sent when the application is about to move from active to inactive state. This can occur for certain types of temporary interruptions (such as an incoming phone call or SMS message) or when the user quits the application and it begins the transition to the background state.
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
     
-    // Test for DNS resolution
-    // is update happening now
-    // New cert test
-    // test before blake demo
-    // try an update now
-    // demo for kunal
-    // demo for blake
-    // test for post
-    // test for windows service integration
-    // test again
-    // one more
-    // 40
-    // 41 - added the sleep before downloading the app
-    // 42 - changed the address to internal ID for downloading
-    // 43 - can we repeat the success
-    // 44 - closed the connection
-    // 45
-    // 46
-    // 47
-    // 48
-    // 49
-    // 50
-    // test from Blake's computer
-    // End to end
+    // Comment here
+
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
