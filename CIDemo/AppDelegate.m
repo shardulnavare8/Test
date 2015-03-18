@@ -39,7 +39,8 @@
     // 41 - added the sleep before downloading the app
     // 42 - changed the address to internal ID for downloading
     // 43 - can we repeat the success
-    // closed the connection
+    // 44 - closed the connection
+    // 45 
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
